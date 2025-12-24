@@ -164,9 +164,3 @@ This project is released **for educational purposes only**.
 Use responsibly on systems you own. Unauthorized use is prohibited.
 
 ---
-
-- 📁 Align all projects into **one master cybersecurity repo**
-- 📄 Make this **resume-ready**
-- 📊 Add screenshots & diagrams
-- 🔐 Turn it into a **full IDS mini-suite**
-```
