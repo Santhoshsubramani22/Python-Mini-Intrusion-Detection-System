@@ -75,8 +75,8 @@ mini_ids/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/mini-ids.git
-cd mini-ids
+git clone https://github.com/Santhoshsubramani22/Python-Mini-Intrusion-Detection-System.git
+cd Python-Mini-Intrusion-Detection-System
 ```
 
 ### 2️⃣ Run the IDS
